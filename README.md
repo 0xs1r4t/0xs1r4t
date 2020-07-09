@@ -1,7 +1,9 @@
-<p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" width="50px">
-<samp>
-  <br>hey there!
-</samp>
+<p align="center">
+   :purple_heart: <br>
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50px">
+  <samp>
+    <br>hey there!
+  </samp>
 </p>
 
 <!--
