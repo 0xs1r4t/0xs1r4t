@@ -1,4 +1,3 @@
-|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|
-|:---:|:---:|:---:|
-|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|
-|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|<img src="https://i3.kym-cdn.com/photos/images/newsfeed/001/061/623/751.gif">|
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sBx99/sBx99/master/ubuntu-neofetch.png">
+</p>
