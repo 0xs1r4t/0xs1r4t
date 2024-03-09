@@ -1,0 +1,27 @@
+
+<svg viewBox="0 0 476 476" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @namespace svg url(http://www.w3.org/2000/svg);
+
+        svg|a:link,
+        svg|a:visited {
+            cursor: pointer;
+        }
+        
+        svg|a text,
+        text svg|a {
+            font-family: monospace;
+            font-weight: bold;
+            font-size: 3em;
+            fill: #1a9dda;
+            text-decoration: underline;
+        }
+        
+        svg|a:hover,
+        svg|a:active {
+            outline: dotted 1px blue;
+        }
+    </style>
+	<image href="../images/cinnamoroll-with-a-rainbow-magic-wand.gif" height="476" width="476" />
+    <a href="https://sirat.xyz" target="_blank" rel="noopener noreferrer"><text x="120" y="100" text-anchor="middle">sirat.xyz</text></a>
+</svg>

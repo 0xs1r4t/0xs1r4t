@@ -1,0 +1,36 @@
+
+<svg viewBox="0 0 375 500" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @namespace svg url(http://www.w3.org/2000/svg);
+
+        text {
+            font-family: monospace;
+            font-size: 1.5em;
+        }
+
+        svg|a:link,
+        svg|a:visited {
+            cursor: pointer;
+        }
+        
+        svg|a text,
+        text svg|a {
+            font-weight: bold;
+            font-size: 3em;
+            fill: #000;
+            text-decoration: underline;
+        }
+        
+        svg|a:hover,
+        svg|a:active {
+            outline: dotted 2px black;
+        }
+
+        image {
+            opacity: 0.75;
+        }
+    </style>
+	<image href="../images/sailor-wand.webp" height="375" width="500" />
+    <a href="https://sirat.xyz" target="_blank" rel="noopener noreferrer"><text x="250" y="175" text-anchor="middle">sirat.xyz</text></a>
+    <text x="250" y="210" text-anchor="middle">[incomplete]</text>
+</svg>
