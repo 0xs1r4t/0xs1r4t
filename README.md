@@ -18,5 +18,5 @@
 </span>
 </h1>
 
-i am a data engineer based in india. my person github contains v minimal data engineering. my professional stack is super abstracted, which is why this page reflects my personal interests, which includes a lot of different utilizations of python (for data + backend) and more recently, typescript (for frontend). i usually read, crochet, create 3d models, attempt iot builds and workout in my free time. check out my current wip, [my blog](https://sirat.xyz/), or it's associated repo [@0xs1r4t/sirat.xyz](https://github.com/0xs1r4t/sirat.xyz)
+i am a data engineer based in india. my github contains minimal data engineering since my professional stack is super abstracted. all of my public repositories reflects my personal interests, which includes a lot of different utilizations of python (for data + backend) and more recently, typescript (for frontend). i usually read, crochet, create 3d models, attempt iot builds and workout in my free time. check out my current wip, [my blog](https://sirat.xyz/), or it's associated repo [@0xs1r4t/sirat.xyz](https://github.com/0xs1r4t/sirat.xyz).
 
