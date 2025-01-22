@@ -17,6 +17,15 @@
   <img src="https://64.media.tumblr.com/ba4769d2c85e42adb5cf4a3fbc4760d2/2e01f0a255a31b9f-1d/s75x75_c1/b272a6fccfd5451af3a27d537fc8271efc5dda2a.gif" height="20" width="20" alt="a variety of sweet roles"/>
 </span>
 </h1>
-
-i am a data engineer based in india. my github contains minimal data engineering since my professional stack is super abstracted. all of my public repositories reflect my personal interests, which now includes different utilizations of python (for data + backend) and more recently, typescript (for frontend). i usually read, crochet, create 3d models, attempt iot builds and workout in my free time. check out my current wip, [my blog](https://sirat.xyz/), or it's associated repo [@0xs1r4t/sirat.xyz](https://github.com/0xs1r4t/sirat.xyz).
+<pre>
+  i am a data engineer based in india.
+  all of my public repositories reflect
+  my personal interests, that include
+  different utilizations of python (for
+  data + backend) and more recently,
+  typescript (for frontend). i usually read,
+  crochet, create 3d models, <i>attempt</i> iot
+  builds and workout in my free time.
+  check out my current wip, <a href="https://sirat.xyz/" target="_blank" rel="noopener noreferrer">my web portfolio</a>,
+  or it's associated repo <a href="https://github.com/0xs1r4t/sirat.xyz" target="_blank" rel="noopener noreferrer">@0xs1r4t/sirat.xyz</a>.</pre>
 
