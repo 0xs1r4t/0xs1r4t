@@ -18,7 +18,7 @@
 </span>
 </h1>
 <pre>
-  i am a data engineer based in india.
+  i am a software engineer based in india.
   all of my public repositories reflect
   my personal interests, that include
   different utilizations of python (for
