@@ -18,7 +18,14 @@
 </span>
 </h1>
 <pre>
-  i am a software engineer based in india.
+  i am currently a master of science, computer
+  science candidate, specialising in graphics,
+  vision and extended reality, at trinity
+  college dublin. i worked at accenture in
+  india as a senior software engineer, with
+  a focus in the data engineering + analysis
+  + visualisation space.
+  <br />
   all of my public repositories reflect
   my personal interests, that include
   different utilizations of python (for
@@ -26,6 +33,7 @@
   typescript (for frontend). i usually read,
   crochet, create 3d models, <i>attempt</i> iot
   builds and workout in my free time.
+  <br />
   check out my current wip, <a href="https://sirat.xyz/" target="_blank" rel="noopener noreferrer">my web portfolio</a>,
   or it's associated repo <a href="https://github.com/0xs1r4t/sirat.xyz" target="_blank" rel="noopener noreferrer">@0xs1r4t/sirat.xyz</a>.</pre>
 
